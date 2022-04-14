@@ -27,7 +27,7 @@ education:
   courses:
   - course: MSc in Data Science
     institution: University of Trieste
-    year: 2021 - (present)
+    year: 2021 - present
   - course: BSc in Mathematics
     institution: University of Modena and Reggio Emilia
     year: 2018 - 2021
