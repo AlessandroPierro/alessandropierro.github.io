@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Services
-subtitle:
+subtitle: Data-driven solutions for businesses and professionals
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
@@ -27,7 +27,7 @@ feature:
 - description: 
   icon: subscript
   icon_pack: fas
-  name: Modeling
+  name: Advanced Modeling
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
