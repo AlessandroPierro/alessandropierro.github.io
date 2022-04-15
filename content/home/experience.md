@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Research Intern
     company: Evolutionary Robotics and Artificial Life Lab
-    company_url: 'https://erallab.inginf.units.it/'
-    company_logo: org-gc
+    company_url: ''
+    company_logo: logook200
     location: Trieste, Italy
     date_start: '2021-11-01'
     date_end: ''
