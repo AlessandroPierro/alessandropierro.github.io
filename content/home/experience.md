@@ -36,6 +36,17 @@ experience:
         * Combining evolutionary computation and RL
         * Contributing to the *2dhmsr* Java simulator
         
+  - title: ML Developer
+    company: Vision-E S.R.L.
+    company_url: ''
+    company_logo: 
+    location: Sassuolo, Italy
+    date_start: '2021-07-01'
+    date_end: '2021-12-31'
+    description: |2-
+       
+        * Design and implementation of a Model Predictive Controller of an autonomous racing vehicle
+        
   - title: Localization and Planning Developer
     company: MoRe Modena Racing Driverless
     company_url: ''
@@ -45,8 +56,7 @@ experience:
     date_end: '2021-11-01'
     description: |2-
        
-        * Design and implementation of a Model Predictive Controller of an autonomous
-racing vehicle
+        * Design and implementation of a Model Predictive Controller of an autonomous racing vehicle
         
   - title: Structural Computing Analyst
     company: Impulse Modena Racing
