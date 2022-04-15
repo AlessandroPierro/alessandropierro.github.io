@@ -3,7 +3,7 @@ title: Direct Collocations Methods for Trajectory Optimization
 summary: Bachelor Thesis in numerical analysis
 tags:
 - Numerical Analysis
-date: "2016-04-27T00:00:00Z"
+date: "2021-07-13T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/AlessandroPierro/alessandropierro.github.io/raw/deploy/content/project/bs-thesis/BS%20-%20Thesis.pdf"
