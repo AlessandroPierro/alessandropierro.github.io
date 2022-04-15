@@ -16,10 +16,10 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
+    local_business_type: 'Consulting'
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: ''
+    twitter: 'PierroTweets'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -33,7 +33,7 @@ header:
   navbar:
     enable: true
     align: l
-    show_logo: false
+    show_logo: true
     show_language: false
     show_day_night: true
     show_search: false
