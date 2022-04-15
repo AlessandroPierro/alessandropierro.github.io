@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 
-  icon: magnifying-glass-chart
+  icon: chart-column
   icon_pack: fas
   name: Data Analytics
 - description: 
@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Computer Vision
 - description: 
-  icon: abacus
+  icon: subscript
   icon_pack: fas
   name: Modeling
 
