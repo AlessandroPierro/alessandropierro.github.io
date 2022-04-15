@@ -46,7 +46,7 @@ experience:
     description: |2-
        
         * Training of custom object detection models
-        * Implementation of data analysis pipeline
+        * Implementation of data analysis pipeline in Python
         
   - title: Localization and Planning Developer
     company: MoRe Modena Racing Driverless
