@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 
-  icon: chart-column
+  icon: chart-line
   icon_pack: fas
   name: Data Analytics
 - description: 
