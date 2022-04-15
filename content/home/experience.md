@@ -52,8 +52,8 @@ experience:
     company_url: ''
     company_logo: 
     location: Modena, Italy
-    date_start: '2021-10-01'
-    date_end: '2020-11-01'
+    date_start: '2020-11-01'
+    date_end: '2021-10-01'
     description: |2-
        
         * Design and implementation of a Model Predictive Controller of an autonomous racing vehicle
@@ -63,8 +63,8 @@ experience:
     company_url: ''
     company_logo: 
     location: Trieste, Italy
-    date_start: '2020-10-01'
-    date_end: '2019-11-01'
+    date_start: '2019-11-01'
+    date_end: '2020-10-01'
     description: |2-
        
         * Structural analysis of mechanical components with HyperMesh
