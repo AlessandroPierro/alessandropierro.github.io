@@ -1,5 +1,5 @@
 ---
-title: Direct Collocations Methods for Trajectory Optimization Problems
+title: Direct Collocations Methods for Trajectory Optimization
 summary: Bachelor Thesis in numerical analysis
 tags:
 - Numerical Analysis
