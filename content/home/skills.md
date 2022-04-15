@@ -17,10 +17,6 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 
-  icon: abacus
-  icon_pack: fas
-  name: Modeling
-- description: 
   icon: magnifying-glass-chart
   icon_pack: fas
   name: Data Analytics
@@ -28,6 +24,10 @@ feature:
   icon: eye
   icon_pack: fas
   name: Computer Vision
+- description: 
+  icon: abacus
+  icon_pack: fas
+  name: Modeling
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
