@@ -8,6 +8,11 @@ superuser: true
 # Role/position/tagline
 role: MSc student in Data Science and AI
 
+# Organizations/Affiliations to show in About widget
+organizations:
+- name: 
+  url: 
+  
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
