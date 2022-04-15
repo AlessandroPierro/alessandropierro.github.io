@@ -2,8 +2,8 @@
 title: Predicting ICU entrances of COVID-19 patients
 summary: Final project of "Statistical Methods for Data Science"
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Statistical Modeling
+date: "2022-01-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
