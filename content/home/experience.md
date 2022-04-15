@@ -45,7 +45,8 @@ experience:
     date_end: '2021-12-31'
     description: |2-
        
-        * Design and implementation of a Model Predictive Controller of an autonomous racing vehicle
+        * 
+        * 
         
   - title: Localization and Planning Developer
     company: MoRe Modena Racing Driverless
@@ -56,7 +57,8 @@ experience:
     date_end: '2021-10-01'
     description: |2-
        
-        * Design and implementation of a Model Predictive Controller of an autonomous racing vehicle
+        * Design of a Model Predictive Controller for an autonomous vehicle
+        * Software development in *C++* and *ROS* robotic environment
         
   - title: Structural Computing Analyst
     company: Impulse Modena Racing
