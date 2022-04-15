@@ -1,5 +1,5 @@
 ---
-title: Predicting ICU entrances of COVID-19 patients
+title: Modeling ICU entrances in the pandemic
 summary: Final project of "Statistical Methods for Data Science"
 tags:
 - Statistical Modeling
