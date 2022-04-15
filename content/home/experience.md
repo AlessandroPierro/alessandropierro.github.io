@@ -36,7 +36,7 @@ experience:
         * Combining evolutionary computation and RL
         * Contributing to the *2dhmsr* Java simulator
         
-  - title: Research Intern
+  - title: Localization and Planning Developer
     company: MoRe Modena Racing Driverless
     company_url: ''
     company_logo: 
@@ -44,13 +44,11 @@ experience:
     date_start: '2021-11-01'
     date_end: '2021-11-01'
     description: |2-
-        Under the supervision of Prof. Eric Medvet, I'm working on:
        
-        * Applying Reinforcement Learning to modular soft robots
-        * Combining evolutionary computation and RL
-        * Contributing to the *2dhmsr* Java simulator
+        * Design and implementation of a Model Predictive Controller of an autonomous
+racing vehicle
         
-  - title: Research Intern
+  - title: Structural Computing Analyst
     company: Impulse Modena Racing
     company_url: ''
     company_logo: 
@@ -58,11 +56,8 @@ experience:
     date_start: '2021-11-01'
     date_end: ''
     description: |2-
-        Under the supervision of Prof. Eric Medvet, I'm working on:
        
-        * Applying Reinforcement Learning to modular soft robots
-        * Combining evolutionary computation and RL
-        * Contributing to the *2dhmsr* Java simulator
+        * Structural analysis of mechanical components with HyperMesh
         
 
 design:
