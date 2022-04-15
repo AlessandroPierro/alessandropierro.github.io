@@ -45,7 +45,7 @@ experience:
     date_end: '2021-12-31'
     description: |2-
        
-        * Custom object detection models
+        * Training of custom object detection models
         * Implementation of data analysis pipeline
         
   - title: Localization and Planning Developer
