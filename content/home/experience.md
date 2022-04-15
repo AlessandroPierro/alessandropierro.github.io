@@ -25,7 +25,7 @@ experience:
   - title: Research Intern
     company: Evolutionary Robotics and Artificial Life Lab
     company_url: ''
-    company_logo: logook200
+    company_logo: 
     location: Trieste, Italy
     date_start: '2021-11-01'
     date_end: ''
@@ -36,14 +36,34 @@ experience:
         * Combining evolutionary computation and RL
         * Contributing to the *2dhmsr* Java simulator
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Intern
+    company: MoRe Modena Racing Driverless
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: 
+    location: Modena, Italy
+    date_start: '2021-11-01'
+    date_end: '2021-11-01'
+    description: |2-
+        Under the supervision of Prof. Eric Medvet, I'm working on:
+       
+        * Applying Reinforcement Learning to modular soft robots
+        * Combining evolutionary computation and RL
+        * Contributing to the *2dhmsr* Java simulator
+        
+  - title: Research Intern
+    company: Impulse Modena Racing
+    company_url: ''
+    company_logo: 
+    location: Trieste, Italy
+    date_start: '2021-11-01'
+    date_end: ''
+    description: |2-
+        Under the supervision of Prof. Eric Medvet, I'm working on:
+       
+        * Applying Reinforcement Learning to modular soft robots
+        * Combining evolutionary computation and RL
+        * Contributing to the *2dhmsr* Java simulator
+        
 
 design:
   columns: '2'
