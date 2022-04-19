@@ -61,7 +61,7 @@ email: ""
 highlight_name: true
 ---
 
-I am passionate about applying new data-driven technologies to help companies grow, reduce costs, and optimize efficiency. The techniques I'm exploring in my master's program, such as deep learning and evolutionary algorithms, have great potential for solving optimal control problems, making predictions, and automating processes.
+I am passionate about applying new data-driven technologies to help companies grow, reduce costs, and optimize efficiency. The techniques I'm exploring in my master's program, such as *deep learning* and *evolutionary algorithms*, have great potential for solving optimal control problems, making predictions, and automating processes.
 
 If you are interested in starting a project with me, please feel free to [contact me](#contact).
 
