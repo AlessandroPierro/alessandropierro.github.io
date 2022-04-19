@@ -64,7 +64,7 @@ experience:
     company: Impulse Modena Racing
     company_url: ''
     company_logo: 
-    location: Trieste, Italy
+    location: Modena, Italy
     date_start: '2019-11-01'
     date_end: '2020-10-01'
     description: |2-
