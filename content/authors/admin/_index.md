@@ -6,7 +6,7 @@ title: Alessandro Pierro
 superuser: true
 
 # Role/position/tagline
-role: Graduate student of Artificial Intelligence
+role: Graduate student in Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
