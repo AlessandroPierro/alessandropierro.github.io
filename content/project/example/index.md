@@ -9,7 +9,7 @@ date: "2022-01-15T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Prediction results with GAM
   focal_point: Smart
   
 url_code: ""
