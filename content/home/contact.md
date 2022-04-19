@@ -16,8 +16,8 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
+  appointment_url: 'https://calendly.com/pierrotech/30min'
   email: test@example.org
-  appointment_url: 'https://calendly.com'
 
 design:
   columns: '2'
