@@ -43,6 +43,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/alessandropierro/
+- icon: twitter
+  icon_pack: fab
+  link: https://mobile.twitter.com/PierroTweets
 - icon: github
   icon_pack: fab
   link: https://github.com/AlessandroPierro
