@@ -16,15 +16,15 @@ subtitle: Data-driven solutions for businesses and professionals
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Understand your customers, leverage accurate forecasts
+- description: Understand your customers and market
   icon: chart-line
   icon_pack: fas
   name: Data Analytics
-- description: Improve quality control, speed-up workflows, enhance security
+- description: Improve and speed-up workflows
   icon: eye
   icon_pack: fas
   name: Computer Vision
-- description: Simulate complex systems, perform accurate control, understand causality
+- description: Simulate and control complex systems
   icon: subscript
   icon_pack: fas
   name: Advanced Modeling
