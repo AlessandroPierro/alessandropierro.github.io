@@ -25,7 +25,7 @@ experience:
   - title: Research Intern
     company: Evolutionary Robotics and Artificial Life Lab
     company_url: ''
-    company_logo: 
+    company_logo: eral
     location: Trieste, Italy
     date_start: '2021-11-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: ML Developer
     company: Vision-E S.R.L.
     company_url: ''
-    company_logo: 
+    company_logo: vision-e
     location: Sassuolo, Italy
     date_start: '2021-07-01'
     date_end: '2021-12-31'
@@ -51,7 +51,7 @@ experience:
   - title: Localization and Planning Developer
     company: MoRe Modena Racing Driverless
     company_url: ''
-    company_logo: 
+    company_logo: mmr
     location: Modena, Italy
     date_start: '2020-11-01'
     date_end: '2021-10-01'
@@ -63,7 +63,7 @@ experience:
   - title: Structural Computing Analyst
     company: Impulse Modena Racing
     company_url: ''
-    company_logo: 
+    company_logo: imr
     location: Modena, Italy
     date_start: '2019-11-01'
     date_end: '2020-10-01'
