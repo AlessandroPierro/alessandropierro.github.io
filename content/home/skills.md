@@ -20,7 +20,7 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Data Analytics
-- description: 
+- description: Improve quality controls, speed-up workflows, enhance security
   icon: eye
   icon_pack: fas
   name: Computer Vision
