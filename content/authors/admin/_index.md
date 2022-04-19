@@ -6,7 +6,7 @@ title: Alessandro Pierro
 superuser: true
 
 # Role/position/tagline
-role: MSc student in Data Science and AI
+role: Graduate student of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: 
   
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:
@@ -61,5 +61,8 @@ email: ""
 highlight_name: true
 ---
 
+I am passionate about applying new data-driven technologies to help companies grow, reduce costs, and optimize efficiency. The techniques I'm exploring in my master's program, such as deep learning and evolutionary algorithms, have great potential for solving optimal control problems, making predictions, and automating manufacturing processes.
+
+If you are interested in starting a project with me, please feel free to [contact me](https://pierro.tech/#contact).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
