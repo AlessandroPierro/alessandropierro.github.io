@@ -17,7 +17,7 @@ content:
 
   # Contact details (edit or remove options as required)
   appointment_url: 'https://calendly.com/pierrotech/30min'
-  email: test@example.org
+  email: alessandro@pierro.tech
 
 design:
   columns: '2'
